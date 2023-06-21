@@ -44,7 +44,7 @@ print("Number of words in a file",count)
 ```
 
 ### OUTPUT:
-![exp 5b 1](https://github.com/Safeeq-Fazil/command-line-arguments-to-count-word/assets/118680361/e0035d15-b63b-4fbc-b871-1261ab94da89)
+![image](https://github.com/ChandrasekarS22008273/command-line-arguments-to-count-word/assets/119643845/f47194e4-e91b-48a5-b360-6456e7b7be4c)
 ![exp 5b 2](https://github.com/Safeeq-Fazil/command-line-arguments-to-count-word/assets/118680361/eae3274c-db7f-4a66-b5bf-e6b0c2fd525e)
 ![exp 5b 3](https://github.com/Safeeq-Fazil/command-line-arguments-to-count-word/assets/118680361/0de14d9f-08f3-4db3-8548-8b64e6eaf468)
 
