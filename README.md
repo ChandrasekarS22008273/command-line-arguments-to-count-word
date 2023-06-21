@@ -32,10 +32,14 @@ Register no: 212222230025
 ```
 import sys
 fp=open(sys.argv[1],'r')
-count=0
+d={}
 for line in fp:
-    list1=line.split()
-    count+=len(list1)
+    for w in i.split():
+        if w not in d.keys():
+            d[w]-1
+        else:
+            d[w]+=1
+
 print("Number of words in a file",count)
 ```
 
